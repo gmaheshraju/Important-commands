@@ -21,3 +21,8 @@ C:\Users\C5253526\ws\test\src\test\TestDateCalendar.java
 2)Command to copy all the notepads with .txt extensions into single notepad file.
 
 $> copy /b *.txt all_text_files_data_into_single_text_file.txt
+
+
+3)Compare two files using command prompt windows
+
+$> FC filepath1 filepath2
